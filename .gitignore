@@ -3,6 +3,7 @@
 
 # Custom ignore
 EbookUtility/sec_test/
+EbookUtility/data/private/
 .idea/
 
 # Byte-compiled / optimized / DLL files

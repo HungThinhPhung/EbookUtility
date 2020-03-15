@@ -1,0 +1,2 @@
+class NoChapterException(Exception):
+    pass
