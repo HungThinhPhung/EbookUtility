@@ -2,7 +2,7 @@
 ### Python template
 
 # Custom ignore
-sec_test/
+EbookUtility/sec_test/
 .idea/
 
 # Byte-compiled / optimized / DLL files
